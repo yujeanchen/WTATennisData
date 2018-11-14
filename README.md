@@ -2,7 +2,7 @@
 Example:
 ```
 {
-  "AsOf": "2018-11-05T00:00:00",
+  "AsOf": "2018-11-12T00:00:00",
   "ID": 322082,
   "Name": "Daria Kasatkina",
   "Country": "RUS",
@@ -35,18 +35,18 @@ Example:
   ],
   "CurrentStats": {
     "Aces": 93,
-    "Double Faults": 321,
-    "1st Serve %": 68.6,
-    "1st Serve Points Won %": 59.8,
-    "2nd Serve Points Won %": 42.2,
-    "Break Points Saved %": 52.7,
-    "Service Game Won %": 59.6,
-    "Service Points Won %": 54.3,
-    "1st Return Points Won %": 42.4,
-    "2nd Return Points Won %": 58.0,
-    "Break Points Converted %": 48.5,
-    "Return Games Won %": 46.3,
-    "Return Points Won %": 48.3
+    "Double_Faults": 321,
+    "1st_Serve_%": 68.6,
+    "1st_Serve_Points_Won_%": 59.8,
+    "2nd_Serve_Points_Won_%": 42.2,
+    "Break_Points_Saved_%": 52.7,
+    "Service_Game_Won_%": 59.6,
+    "Service_Points_Won_%": 54.3,
+    "1st_Return_Points_Won_%": 42.4,
+    "2nd_Return_Points_Won_%": 58.0,
+    "Break_Points_Converted %": 48.5,
+    "Return_Games_Won_%": 46.3,
+    "Return_Points_Won_%": 48.3
   },
   "GrandSlamHistory": null
 }
